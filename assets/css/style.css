@@ -42,8 +42,8 @@ h2 {
 
 /* --- Text Alignment and Font Size --- */
 p {
-    text-align: justify;
-    font-size: 17px;
+    text-align: left;
+    font-size: 18px;
     margin-bottom: 20px;
 }
 
