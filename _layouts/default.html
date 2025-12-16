@@ -3,16 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- The page title is pulled from the 'title' field in your Markdown file's Front Matter -->
     <title>{{ page.title }}</title>
-    <!-- Link to the CSS file you just confirmed -->
-    <link rel="stylesheet" href="/assets/css/style.css">
+    
+    <!-- 
+        FIXED CSS LINK: The | relative_url filter is required for Project Sites 
+        (like fedgg.github.io/veniero) to correctly find the assets/css/ folder.
+    -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <!-- The content is wrapped in the .container class, allowing the CSS to limit width and center it -->
     <div class="container">
-        <!-- The {{ content }} tag is the required Jekyll variable that injects the rendered HTML from your Markdown file -->
         {{ content }}
     </div>
+
 </body>
 </html>
