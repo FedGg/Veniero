@@ -35,7 +35,7 @@ Così, nel gennaio dell’86, parte per il Nicaragua dove lavora come collaborat
 
 Tra il ’90 e il ’91 *“…diez meses de experiencia de vida en Cuba, sobre todo en la Isla de la Juventud!!“*, ricorderà sempre con orgoglio.
 
-In seguito mette su famiglia, anche più di una, a San Salvador.
+In seguito mette famiglia, anche più di una. A Managua sposa Violeta, e insieme adottano un figlio, Roberto. Dopo qualche anno ritrova il suo amore clandestino, Ana Mercedes, e si sposta a San Salvador, dove rimane. Infine sposa Ana Cristina.
 
 *“Sono un convinto anti-consumista: la giustizia sociale planetaria non è possibile (ecologicamente e materialmente) con i livelli di consumo della maggior parte degli abitanti dei paesi "ricchi" di oggi. È possibile, tuttavia, con gli attuali livelli di consumo dei lavoratori cubani”*. Si era fatto ricamare a grandi lettere la parola “anticonsumista” sulla camicia e io lo prendevo in giro, quando veniva in Italia.
 
